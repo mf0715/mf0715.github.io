@@ -63,29 +63,29 @@ enableGitInfo = true
             en = 'Nav'
             zh = '导航'
             icon = '🎯'
-        [params.menu.11]
-            active = true
-            path = 'http://wiki.mf0715.com'
-            en = 'Search'
-            zh = 'wiki'
-            icon = '🔎'
+        # [params.menu.11]
+        #    active = true
+        #    path = '/search'
+        #    en = 'Search'
+        #    zh = '搜索'
+        #    icon = '🔎'
         [params.menu.22]
             active = true
             path = '/posts'
             en = 'Posts'
             zh = '文章'
             icon = '📜'
-        [params.menu.33]
-            active = true
-            path = '/archive'
-            en = 'Archive'
-            zh = '归档'
-            icon = '🎉'
+        # [params.menu.33]
+        #    active = true
+        #    path = '/archive'
+        #    en = 'Archive'
+        #    zh = '归档'
+        #    icon = '🎉'
         [params.menu.44]
             active = true
-            path = '/notes'
-            en = 'Notes'
-            zh = '草稿'
+            path = 'http://wiki.mf0715.com'
+            en = 'Wiki'
+            zh = '维基'
             icon = '⚗️'
         [params.menu.55]
             active = true
