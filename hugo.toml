@@ -105,7 +105,7 @@ enableGitInfo = true
         # 如果，将 `width` 设置为 '' 或 0 ，
         # 将默认使用图片自身分辨率尺寸
         src = 'infinity.svg'
-        width = 1500
+        width = 1200
         # words = "Stay hungry, Stay foolish. <br>Your time is limited, so don't waste it living someone else's life. <br>Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary. <br>-- Steve Jobs."
         # words = "多少事，从来急；<br>天地转，光阴迫。<br>一万年太久，只争朝夕。<br>-- 教员"
         words = "身沐长风听惊雷<br>心得雨润感芳菲"
