@@ -1,6 +1,6 @@
 baseURL = 'https://www.mf0715.com/'
 languageCode = 'zh-cn'
-title = 'MuFeng'
+title = '沐风'
 
 # 启用主题
 theme = 'virgo'
@@ -12,7 +12,7 @@ enableGitInfo = true
 
 [params]
     author = 'Jack'
-    slogan = 'Life should be interesting.' # 'Life is just a joker.'
+    slogan = 'why so serious?' # 'Life is just a joker.'
 
     # 页面语言，默认中文
     en = false
