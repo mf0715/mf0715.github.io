@@ -38,7 +38,7 @@ enableGitInfo = true
     # 激活 cool 模式，酷爽但是消耗资源也更多，
     # 如果想更换页面背景，只需要将图片命名为 `default.jpg` 后，置于 `/static/imgs/bg` 文件夹中即可，
     # 浏览器有缓存，更换后强制页面刷新（快捷键为 Ctrl+Shift+R）一下即可
-    hasActiveCool = false
+    hasActiveCool = true
 
     # 展开/折叠代码块，默认不折叠，
     # 设置为 `true` ，则默认折叠所有代码块，
@@ -98,7 +98,7 @@ enableGitInfo = true
     [params.img]
         # 如果你不想显示图片，想显示一段话，只需要
         # 设置 `noImgButWords` 为 true 即可
-        notImgButWords = false
+        notImgButWords = true
         # 内置了 `girl.jpg, wukong.jpg, and tux.jpg, cat.svg ……`，当然你可以
         # 把自己喜欢图片放在 `static/imgs/` 目录中，并在 `src` 引用它,
         # 你还可以通过 `width` 调整引入图片的显示大小，
@@ -107,8 +107,8 @@ enableGitInfo = true
         src = 'infinity.svg'
         width = 1200
         # words = "Stay hungry, Stay foolish. <br>Your time is limited, so don't waste it living someone else's life. <br>Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary. <br>-- Steve Jobs."
-        # words = "多少事，从来急；<br>天地转，光阴迫。<br>一万年太久，只争朝夕。<br>-- 教员"
-        words = "身沐长风听惊雷<br>心得雨润感芳菲"
+        words = "多少事，从来急；<br>天地转，光阴迫。<br>一万年太久，只争朝夕。<br>-- 教员"
+        # words = "身沐长风听惊雷<br>心得雨润感芳菲"
 
     [params.contact]
         icp = '身沐长风听惊雷，心得雨润感芳菲'             # 备案号，如果你不想显示，设置为 '' 空即可

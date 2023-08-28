@@ -10,22 +10,22 @@ draft: false
 
 <div class="nav">
 
-## 🌞 *分类 ONE*
+## 🌞 *日常*
 - [mineitem one](/)
 - [mineitem two](/archive)
 - [mineitem three](https://nav-item-three.com)
  
-## 🔨 *分类 TWO*
+## 🔨 *工具*
 - [toolitem three](https://nav-item-three.com)
 
-## 📑 *分类 THREE*
+## 📑 *学习*
 - [docitem one](/)
 - [docitem two](/archive)
-- [docitem three](https://nav-item-three.com)
+- [提问的智慧](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)
 
 </div>
 
-## 🔖 *标签 BOOKMARKs*
+## 🔖 *书签 BOOKMARKs*
 
 <div class="bookmark">
 
