@@ -21,7 +21,7 @@ draft: false
 ## 📑 *学习*
 - [docitem one](/)
 - [docitem two](/archive)
-- [提问的智慧](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way)
+- [Z-Library](https://zh.1lib.sk/)
 
 </div>
 
@@ -29,7 +29,7 @@ draft: false
 
 <div class="bookmark">
 
-- bookmark item one https://bookmark-item-one.com
+- 提问的智慧 https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way
 - bookmark item two https://bookmark-item-two.com
 - bookmark item three https://bookmark-item-three.com
 
