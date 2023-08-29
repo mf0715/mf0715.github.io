@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>沐风</title>
+    <link>https://www.mf0715.com/</link>
+    <description>Recent content on 沐风</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language><atom:link href="https://www.mf0715.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nav</title>
+      <link>https://www.mf0715.com/nav/</link>
+      <pubDate>Sat, 26 Aug 2023 09:52:21 +0800</pubDate>
+      
+      <guid>https://www.mf0715.com/nav/</guid>
+      <description>🌞 日常 mineitem one mineitem two mineitem three 🔨 工具 toolitem three 📑 学习 docitem one docitem two Z-Library 🔖 书签 BOOKMARKs 提问的智慧 https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way bookmark item two https://bookmark-item-two.com bookmark item three https://bookmark-item-three.com</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://www.mf0715.com/posts/</link>
+      <pubDate>Sat, 26 Aug 2023 09:52:21 +0800</pubDate>
+      
+      <guid>https://www.mf0715.com/posts/</guid>
+      <description>🌞 分类 ONE 密码工程技术人员 mineitem two mineitem three 🔨 分类 TWO toolitem three 📑 分类 THREE docitem one docitem two docitem three 🔖 标签 BOOKMARKs bookmark item one https://bookmark-item-one.com bookmark item two https://bookmark-item-two.com bookmark item three https://bookmark-item-three.com</description>
+    </item>
+    
+  </channel>
+</rss>

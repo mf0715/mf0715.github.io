@@ -1,7 +1,7 @@
 ---
 title: Posts
-aliases: [nav]
-type: nav
+aliases: [posts]
+type: posts
 date: 2023-08-26T09:52:21+08:00
 draft: false
 ---
@@ -11,7 +11,7 @@ draft: false
 <div class="nav">
 
 ## 🌞 *分类 ONE*
-- [mineitem one](/)
+- [密码工程技术人员](/posts/Cryptography-Engineering-Technician)
 - [mineitem two](/archive)
 - [mineitem three](https://nav-item-three.com)
  
