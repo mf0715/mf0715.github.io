@@ -12,7 +12,7 @@ draft: false
 
 ## 🌞 *分类 ONE*
 - [密码工程技术人员](/posts/Cryptography-Engineering-Technician)
-- [mineitem two](/archive)
+- [test](/posts)
 - [mineitem three](https://nav-item-three.com)
  
 ## 🔨 *分类 TWO*
@@ -20,7 +20,7 @@ draft: false
 
 ## 📑 *分类 THREE*
 - [docitem one](/)
-- [docitem two](/archive)
+- [search](/search)
 - [docitem three](https://nav-item-three.com)
 
 </div>
