@@ -1,5 +1,5 @@
 ---
-title: "Cryptography Engineering Technician"
+title: "密码工程技术人员"
 date: 2023-08-29T09:14:29+08:00
 draft: false
 categories: [_Misc]

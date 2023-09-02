@@ -30,7 +30,7 @@ enableGitInfo = true
     isSingleColumnOfPostList = true
 
     # 是否显示相邻页链接
-    isShowPrevNextLink = true
+    isShowPrevNextLink = false
 
     # 激活页面加载时的过渡动画
     hasActiveAnimate = true
@@ -69,18 +69,18 @@ enableGitInfo = true
         #    en = 'Search'
         #    zh = '搜索'
         #    icon = '🔎'
-        [params.menu.22]
-            active = true
-            path = '/posts'
-            en = 'Posts'
-            zh = '文章'
-            icon = '📜'
-        # [params.menu.33]
+        #[params.menu.22]
         #    active = true
-        #    path = '/archive'
-        #    en = 'Archive'
-        #    zh = '归档'
-        #    icon = '🎉'
+        #   path = '/posts'
+        #    en = 'Posts'
+        #    zh = '文章'
+        #    icon = '📜'
+        [params.menu.33]
+            active = true
+            path = '/archive'
+            en = 'Archive'
+            zh = '归档'
+            icon = '🎉'
         [params.menu.44]
             active = true
             path = 'http://wiki.mf0715.com'
